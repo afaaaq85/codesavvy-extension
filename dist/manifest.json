@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Code Savvy",
+  "description": "No description yet for this extension!",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  }
+}
